@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inteli\\Documents\\GitHub\\Projeto-Bank\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankAccountTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1DFE7-4693-4EB1-A1F7-F0A7BBFABDAB}|Bank\\Bank.csproj|c:\\users\\inteli\\documents\\github\\projeto-bank\\bank\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1DFE7-4693-4EB1-A1F7-F0A7BBFABDAB}|Bank\\Bank.csproj|solutionrelative:bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\GlobalUsings.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T02:45:25.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTests.csproj",
+              "DocumentMoniker": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankTests.csproj",
+              "ToolTip": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankTests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T02:45:25.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\BankTests\\BankAccountTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T02:45:25.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\Projeto-Bank\\Bank\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\Projeto-Bank\\Bank\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "Bank\\BankAccount.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T02:45:25.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

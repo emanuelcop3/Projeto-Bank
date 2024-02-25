@@ -26,4 +26,12 @@ Este relatório descreve o processo de implementação e execução de testes de
 
 ## Print de Código em Execução
 
-![Print 2 - Resultados dos Testes no Visual Studio](link_para_a_imagem_2.png)
+#### Resultados dos Testes no Visual Studio DO BankAccounts
+
+
+<img width="80%" src="./BankAccounts.png"/>
+</br>
+
+#### Resultados dos Testes no Visual Studio do BankTests
+<img width="80%" src="./BankTest.png"/>
+</br>
