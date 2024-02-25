@@ -24,6 +24,6 @@ Este relatório descreve o processo de implementação e execução de testes de
 4. **Correção de Erros e Nova Execução dos Testes**
    - ... (Corrigir o código e executar os testes novamente).
 
-## Prints de Código em Execução
+## Print de Código em Execução
 
 ![Print 2 - Resultados dos Testes no Visual Studio](link_para_a_imagem_2.png)
